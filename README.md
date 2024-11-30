@@ -1,45 +1,30 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Grafos1-LeetCodeProblems
 
 Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
+ - Grafos 2
 
-# NomedoProjeto
+# LeetCode
 
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 2
+
+**Conteúdo da Disciplina**: Grafos 2
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 21/1043638  | ARTUR RODRIGUES SOUSA ALVES |
+| 21/1039635 |  MIGUEL MATOS COSTA DE FRIAS BARBOSA |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Este repositório contém questões resolvidas, sobre o conteúdo de Grafos 2, do site [LeetCode](https://leetcode.com). Tais questões foram usadas para praticar e aplicar o que nos foi ministrado pelo Prof. Maurício durante o desenvolvimento do segundo tópico (Grafos 2) da Disciplina de Projeto de Algoritmos. 
 
-## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+## Questões
+| Exercício | Dificuldade | Enunciado | Aluno |
+| -- | -- | -- | -- |
+| [126. Word Ladder II]() | Hard | [Clique Aqui]() | Artur Rodrigues Sousa Alves |
+| [210. Course Schedule II]() | Medium | [Clique Aqui]() | Artur Rodrigues Sousa Alves |
+| [2608. Shortest Cycle in a Graph]() | Hard | [Clique Aqui]() |  Miguel Matos Costa De Frias Barbosa |
+| [2374. Node With Highest Edge Score]() | Medium | [Clique Aqui]() |  Miguel Matos Costa De Frias Barbosa |
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
-
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
-
+[Python](https://www.python.org/)
