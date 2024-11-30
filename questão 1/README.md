@@ -14,14 +14,16 @@ You are given an m x n integer matrix grid where each cell is either 0 (empty) o
 
 Return the minimum number of steps to walk from the upper left corner (0, 0) to the lower right corner (m - 1, n - 1) given that you can eliminate at most k obstacles. If it is not possible to find such walk return -1.
 
+![image](https://github.com/user-attachments/assets/8b2e2513-ed66-4608-b6e7-f905403e7a0d)
+
 
 Constraints:
 
-m == grid.length
-n == grid[i].length
-1 <= m, n <= 40
-1 <= k <= m * n
-grid[i][j] is either 0 or 1.
-grid[0][0] == grid[m - 1][n - 1] == 0
+- m == grid.length
+- n == grid[i].length
+- 1 <= m, n <= 40
+- 1 <= k <= m * n
+- grid[i][j] is either 0 or 1.
+- grid[0][0] == grid[m - 1][n - 1] == 0
 
 ### Submissões: 
