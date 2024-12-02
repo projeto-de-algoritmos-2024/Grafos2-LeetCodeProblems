@@ -1,5 +1,7 @@
 ## #1584. Min Cost to Connect All Points
 
+![image](https://github.com/user-attachments/assets/7f85ff7d-7954-4e30-87bf-c08735d23d6a)
+
 [Link para a questão](https://leetcode.com/problems/min-cost-to-connect-all-points/description/)
 
 ### Gravação:
@@ -25,3 +27,8 @@ Constraints:
 All pairs (xi, yi) are distinct.
 
 ### Submissões: 
+
+![image](https://github.com/user-attachments/assets/36587423-b92d-43f1-bb9e-310bd9de1cfe)
+
+![image](https://github.com/user-attachments/assets/1193a31f-2acb-4ec4-9277-abf570b7ab9c)
+
