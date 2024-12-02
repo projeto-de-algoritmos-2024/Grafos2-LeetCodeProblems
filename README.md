@@ -1,4 +1,4 @@
-# Grafos1-LeetCodeProblems
+# Grafos2-LeetCodeProblems
 
 Temas:
  - Grafos 2
@@ -21,10 +21,10 @@ Este repositório contém questões resolvidas, sobre o conteúdo de Grafos 2, d
 ## Questões
 | Exercício | Dificuldade | Enunciado | Aluno |
 | -- | -- | -- | -- |
-| [126. Word Ladder II]() | Hard | [Clique Aqui]() | Artur Rodrigues Sousa Alves |
-| [210. Course Schedule II]() | Medium | [Clique Aqui]() | Artur Rodrigues Sousa Alves |
-| [2608. Shortest Cycle in a Graph]() | Hard | [Clique Aqui]() |  Miguel Matos Costa De Frias Barbosa |
-| [2374. Node With Highest Edge Score]() | Medium | [Clique Aqui]() |  Miguel Matos Costa De Frias Barbosa |
+| [1293. Shortest Path in a Grid with Obstacles Elimination]() | Hard | [Clique Aqui](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/description/) | Artur Rodrigues Sousa Alves |
+| [1584. Min Cost to Connect All Points]() | Medium | [Clique Aqui](https://leetcode.com/problems/min-cost-to-connect-all-points/description/) | Artur Rodrigues Sousa Alves |
+| [1192. Critical Connections in a Network]() | Hard | [Clique Aqui](https://leetcode.com/problems/critical-connections-in-a-network/description/) |  Miguel Matos Costa De Frias Barbosa |
+| [684. Redundant Connection]() | Medium | [Clique Aqui](https://leetcode.com/problems/redundant-connection/description/) |  Miguel Matos Costa De Frias Barbosa |
 
 ## Instalação 
 [Python](https://www.python.org/)
