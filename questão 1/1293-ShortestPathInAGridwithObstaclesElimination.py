@@ -33,7 +33,7 @@ class Solution:
             if (linha, coluna, obstaculos_restantes) in visitados:
                 continue
 
-            # Marca o estado atual como visitado
+            # Marca estado atual como visitado
             visitados.add((linha, coluna, obstaculos_restantes))
 
             # Verifica as células vizinhas
