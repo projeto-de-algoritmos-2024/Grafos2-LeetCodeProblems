@@ -1,5 +1,7 @@
 ## #1293. Shortest Path in a Grid with Obstacles Elimination
 
+![image](https://github.com/user-attachments/assets/7b392b7a-db19-4372-8219-9b2df68c6ae2)
+
 [Link para a questão](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/description/)
 
 ### Gravação:
@@ -27,3 +29,9 @@ Constraints:
 - grid[0][0] == grid[m - 1][n - 1] == 0
 
 ### Submissões: 
+
+![image](https://github.com/user-attachments/assets/8c2a6800-84d2-4804-9d10-f1cf42534eb6)
+
+![image](https://github.com/user-attachments/assets/c4646533-74b6-4a9f-b1d5-68685defe46c)
+
+
