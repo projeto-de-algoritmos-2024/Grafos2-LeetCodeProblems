@@ -34,3 +34,7 @@ Explanation: [[3,1]] is also accepted.
 
 
 ### Submissões: 
+
+Abaixo se encontra a imagem que mostra as submissoẽs feitas até chegar a resposta
+
+![image](../images/questao3/submission.png)

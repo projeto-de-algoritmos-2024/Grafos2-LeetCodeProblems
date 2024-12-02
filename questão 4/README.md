@@ -36,3 +36,7 @@ Output: [1,4]
 
 
 ### Submissões: 
+
+Abaixo se encontra a imagem que mostra as submissoẽs feitas até chegar a resposta
+
+![image](../images/questao4/submission2.png)
