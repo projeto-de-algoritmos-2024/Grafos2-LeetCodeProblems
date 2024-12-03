@@ -4,7 +4,7 @@
 
 ### Gravação:
 
-[Link para a gravação]()
+[Link para a gravação](https://youtu.be/MiMNa7qIDxU)
 
 #### Dificuldade: Média
 

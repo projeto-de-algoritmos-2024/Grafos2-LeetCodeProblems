@@ -1,30 +1,26 @@
 class Solution:
-    p = [-1]*1001 
+    def findRedundantConnection(self, edges: list[list[int]]) -> list[int]:
+        graph = defaultdict(set)
+        for i in edges:
+            graph[i[0]].add(i[1])
+            graph[i[1]].add(i[0])
+        keys = len(graph.keys())
+        
+        for i in edges[-1::-1]:
+            graph[i[0]].remove(i[1])
+            graph[i[1]].remove(i[0])
+            l = []
+            stack = [i[0]]
+            visited = {i[0]}
+            while stack:
+                s = stack.pop()
+                l.append(s)
+                for j in graph[s]:
+                    if j not in visited:
+                        visited.add(j)
+                        stack.append(j)
+            if len(l)==len(graph.keys()):
+                return i
 
-    def find(self, x):
-        if self.p[x] >= 0:
-            self.p[x] = self.find(self.p[x])
-            return self.p[x]
-        return x
-
-    def union(self, a, b):
-        pa = self.find(a)
-        pb = self.find(b)
-        if pa == pb:
-            return False
-        ra = -self.p[pa]
-        rb = -self.p[pb]
-        if ra > rb:
-            self.p[pb] = pa
-        elif ra < rb:
-            self.p[pa] = pb
-        else:
-            self.p[pa] = pb
-            self.p[pb] -= 1
-        return True
-
-    def findRedundantConnection(self, edges: List[List[int]]) -> List[int]:
-        self.p = [-1]*1001
-        for e in edges:
-            if not self.union(e[0], e[1]):
-                return e
+            graph[i[0]].add(i[1])
+            graph[i[1]].add(i[0])
